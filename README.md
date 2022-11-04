@@ -2,6 +2,9 @@
 
 Projeto desenvolvido no framework Laravel na versão 8 
 
+OBS: Segue o link do vídeo mostrando todas as funcionalidade do sistema.
+https://www.veed.io/view/c2e06b0d-08f0-4979-9278-dfde71df8cc3?source=compressor-sharing
+
 
 ## Requisitos
 
